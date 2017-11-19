@@ -1,2 +1,2 @@
 # my-first-poz
-my fisrt [poz](https://github.com/ulivz/poz) package
+my fisrt [POZ](https://github.com/ulivz/poz) package
