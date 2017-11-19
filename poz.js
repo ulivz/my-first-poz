@@ -18,7 +18,7 @@ module.exports = function (context, poz) {
       return {
         target: context.name,
         rename: {
-          '{age}': context.lang,
+          '{lang}': context.lang,
         }
       }
     },
